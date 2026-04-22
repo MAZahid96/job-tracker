@@ -4,7 +4,7 @@ A web application to track job applications, interviews, and offers — built wi
 
 ## Live Demo
 
-> Coming soon — deploying to Vercel
+> [View Live App](https://job-tracker-sandy-three.vercel.app)
 
 ## Features
 
